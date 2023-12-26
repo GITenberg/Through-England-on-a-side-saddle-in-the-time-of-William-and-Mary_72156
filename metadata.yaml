@@ -5,6 +5,9 @@ contributor:
     agent_name: Griffiths, Emily W.
     gutenberg_agent_id: '56570'
     url: http://www.gutenberg.org/2009/agents/56570
+covers:
+- cover_type: archival
+  image_path: 72156-h/images/cover.jpg
 creator:
   author:
     agent_name: Fiennes, Celia
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56569
     wikipedia: https://en.wikipedia.org/wiki/Celia_Fiennes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72156#Through-England-on-a-side-saddle-in-the-time-of-William-and-Mary
 gutenberg_issued: '2023-11-17'
 identifiers:
   gutenberg: '72156'
